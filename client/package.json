@@ -3,8 +3,9 @@
   "version": "0.1.0",
   "private": true,
   "proxy": "http://localhost:3001/",
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-router-dom": "^4.3.1",
